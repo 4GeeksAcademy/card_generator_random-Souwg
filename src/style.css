@@ -1,1 +1,24 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: #0f985a !important;
+  margin: auto;
+}
+#letterNUMBER {
+  font-size: 100px;
+  font-weight: 900;
+  text-align: center;
+}
+#iconos1 {
+  font-size: 120px;
+  color: black;
+  margin-left: 10px;
+}
+#iconos2 {
+  font-size: 120px;
+  color: black;
+  transform: scaleY(-1);
+  margin-right: 10px;
+}
+.red {
+  color: red;
+}
